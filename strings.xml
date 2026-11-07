@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">נגן אופליין</string>
+    <string name="tab_audio">שמע</string>
+    <string name="tab_video">וידאו</string>
+    <string name="tab_playlists">רשימות</string>
+    <string name="search">חיפוש</string>
+    <string name="refresh">רענון</string>
+    <string name="empty_library">לא נמצאו קבצים</string>
+    <string name="perm_title">נדרשת הרשאה לקריאת קבצי מדיה</string>
+    <string name="perm_body">כדי להציג את קבצי השמע והווידאו שבמכשיר, האפליקציה צריכה גישה אליהם. הכול נשאר במכשיר, ללא אינטרנט.</string>
+    <string name="perm_grant">אישור הרשאות</string>
+    <string name="perm_settings">פתיחת הגדרות</string>
+    <string name="add_to_playlist">הוספה לרשימת השמעה</string>
+    <string name="remove_from_playlist">הסרה מהרשימה</string>
+    <string name="new_playlist">רשימה חדשה</string>
+    <string name="playlist_name">שם הרשימה</string>
+    <string name="create">יצירה</string>
+    <string name="create_and_add">יצירה והוספה</string>
+    <string name="cancel">ביטול</string>
+    <string name="delete_playlist">מחיקת הרשימה</string>
+    <string name="no_playlists">אין עדיין רשימות השמעה</string>
+    <string name="items_count">%d פריטים</string>
+    <string name="back">חזרה</string>
+    <string name="more">עוד</string>
+    <string name="play">הפעלה</string>
+    <string name="pause">השהיה</string>
+    <string name="next">הבא</string>
+    <string name="previous">הקודם</string>
+    <string name="back10">10 שניות אחורה</string>
+    <string name="forward10">10 שניות קדימה</string>
+    <string name="speed">מהירות השמעה</string>
+    <string name="now_playing">מתנגן כעת</string>
+</resources>
